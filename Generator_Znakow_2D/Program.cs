@@ -6,7 +6,7 @@ class Program
 
     public static string RandomString(int length)
     {
-        const string character = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789";
+        const string character = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789,./;'@'\"{}'[]!@#$%^&*()_+-=<>?:|";
         return new string(Enumerable.Repeat(character, length).Select(s => s[random.Next(s.Length)]).ToArray());
     }
 
@@ -47,7 +47,7 @@ class Program
         {
             for (int j = 0; j < board.GetLength(1); j++)
             {
-                board[i, j] = "x";
+                board[i, j] = "[]";
             }
         }
         Console.WriteLine("Obraz podstawowy:");
