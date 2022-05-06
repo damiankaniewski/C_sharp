@@ -1,0 +1,15 @@
+C:\Users\Damian\RiderProjects\HelloWorld\Captcha\bin\Debug\net6.0\Captcha.exe
+C:\Users\Damian\RiderProjects\HelloWorld\Captcha\bin\Debug\net6.0\Captcha.deps.json
+C:\Users\Damian\RiderProjects\HelloWorld\Captcha\bin\Debug\net6.0\Captcha.runtimeconfig.json
+C:\Users\Damian\RiderProjects\HelloWorld\Captcha\bin\Debug\net6.0\Captcha.dll
+C:\Users\Damian\RiderProjects\HelloWorld\Captcha\bin\Debug\net6.0\Captcha.pdb
+C:\Users\Damian\RiderProjects\HelloWorld\Captcha\obj\Debug\net6.0\Captcha.csproj.AssemblyReference.cache
+C:\Users\Damian\RiderProjects\HelloWorld\Captcha\obj\Debug\net6.0\Captcha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Damian\RiderProjects\HelloWorld\Captcha\obj\Debug\net6.0\Captcha.AssemblyInfoInputs.cache
+C:\Users\Damian\RiderProjects\HelloWorld\Captcha\obj\Debug\net6.0\Captcha.AssemblyInfo.cs
+C:\Users\Damian\RiderProjects\HelloWorld\Captcha\obj\Debug\net6.0\Captcha.csproj.CoreCompileInputs.cache
+C:\Users\Damian\RiderProjects\HelloWorld\Captcha\obj\Debug\net6.0\Captcha.dll
+C:\Users\Damian\RiderProjects\HelloWorld\Captcha\obj\Debug\net6.0\refint\Captcha.dll
+C:\Users\Damian\RiderProjects\HelloWorld\Captcha\obj\Debug\net6.0\Captcha.pdb
+C:\Users\Damian\RiderProjects\HelloWorld\Captcha\obj\Debug\net6.0\Captcha.genruntimeconfig.cache
+C:\Users\Damian\RiderProjects\HelloWorld\Captcha\obj\Debug\net6.0\ref\Captcha.dll
