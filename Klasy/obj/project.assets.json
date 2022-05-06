@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Damian\\RiderProjects\\HelloWorld\\Zad4\\Zad4.csproj",
-      "projectName": "Zad4",
-      "projectPath": "C:\\Users\\Damian\\RiderProjects\\HelloWorld\\Zad4\\Zad4.csproj",
+      "projectUniqueName": "C:\\Users\\Damian\\RiderProjects\\HelloWorld\\Klasy\\Klasy.csproj",
+      "projectName": "Klasy",
+      "projectPath": "C:\\Users\\Damian\\RiderProjects\\HelloWorld\\Klasy\\Klasy.csproj",
       "packagesPath": "C:\\Users\\Damian\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Damian\\RiderProjects\\HelloWorld\\Zad4\\obj\\",
+      "outputPath": "C:\\Users\\Damian\\RiderProjects\\HelloWorld\\Klasy\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Damian\\AppData\\Roaming\\NuGet\\NuGet.Config"
