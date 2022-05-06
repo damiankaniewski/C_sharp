@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Damian\\RiderProjects\\HelloWorld\\Zad6\\Zad6.csproj",
-      "projectName": "Zad6",
-      "projectPath": "C:\\Users\\Damian\\RiderProjects\\HelloWorld\\Zad6\\Zad6.csproj",
+      "projectUniqueName": "C:\\Users\\Damian\\RiderProjects\\HelloWorld\\Generator_Znakow_2D\\Generator_Znakow_2D.csproj",
+      "projectName": "Generator_Znakow_2D",
+      "projectPath": "C:\\Users\\Damian\\RiderProjects\\HelloWorld\\Generator_Znakow_2D\\Generator_Znakow_2D.csproj",
       "packagesPath": "C:\\Users\\Damian\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Damian\\RiderProjects\\HelloWorld\\Zad6\\obj\\",
+      "outputPath": "C:\\Users\\Damian\\RiderProjects\\HelloWorld\\Generator_Znakow_2D\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Damian\\AppData\\Roaming\\NuGet\\NuGet.Config"
